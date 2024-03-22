@@ -564,8 +564,7 @@ footer span a:hover{
 /*Roughly my work .............  */
 .navbar{
     padding:15px;
-    /* background:crimson; */
-    background:rgb(38, 78, 165);
+    background:crimson;
     /* border-bottom:2px solid black; */
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
