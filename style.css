@@ -180,8 +180,8 @@ transform: translateX(-50%);
 }
 .profile-photo{
     position: absolute;
-    width: 400px;
-    height:650px;
+    width: 380px;
+    height:600px;
     top:5px;
     bottom:5px;
     right:5%;
